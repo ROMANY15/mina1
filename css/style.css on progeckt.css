@@ -1,0 +1,96 @@
+div.item{
+    width: 25%;
+    text-align: center;
+    float: left;
+    
+
+}
+
+.center{
+
+  text-align: center;  
+  color:blueviolet;
+}
+.item img{
+    width: 100%;
+}
+.size{
+    float: left;
+    width: 50%;
+}
+
+.size img{
+
+    width: 100%;
+}
+
+.cler{
+clear: both;
+
+}
+ .item h3{
+    color: blue;
+ }
+ .item p{
+
+    color: fuchsia;
+ }
+ .name{
+    background-color: antiquewhite;
+    width: 400px;
+    height: 250px;
+
+ }
+ .sp{
+
+    background-color: black;
+    width: 200px;
+    height: 100px;
+    /*     top riht boton  left           */
+    margin: 30px 30px 30px 30px;
+    margin-left: auto;
+    margin-right: auto;
+
+ }
+ .perant{
+
+    width: 600px;
+    background-color: blue;
+    overflow: auto;
+    padding-left: 30px;
+ }
+ .ch{
+    margin-top: 100px;
+    width: 100px;
+    height: 100;
+    background-color: blueviolet;
+ }
+ .s{
+
+width: 300px;
+padding-left:50px ;
+padding-top: 50px;
+padding-bottom : 50px ;
+padding-right: 50px;
+text-align: center;
+
+
+
+ }
+ .galy{
+    background-color: blue;
+    width: 50%;
+    float: left;
+    
+ }
+ .galy img{
+
+    width: 100%;
+
+ }
+ 
+ .ccc{
+
+   width: 20px;
+   height: 50px;
+ }
